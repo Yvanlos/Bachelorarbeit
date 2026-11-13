@@ -1,6 +1,6 @@
 # Java Call Graph (JCG) – Test-Adapter (Bachelorarbeit)
 
-Dieses Repository archiviert meine Implementierung im Rahmen meiner Bachelorarbeit auf Basis des **Java Call Graph (JCG) Frameworks**. Ziel der Arbeit war die Entwicklung und Integration eines neuen Test-Adapters im Modul [`jcg_callgraphs_testadapter`](./jcg_callgraphs_testadapter) zur systematischen Evaluation von Call-Graph-Analysen.
+Dieses Repository archiviert meine Implementierung im Rahmen meiner Bachelorarbeit auf Basis des **Java Call Graph (JCG) Frameworks**. Ziel der Arbeit war die Entwicklung und Integration eines neuen Test-Adapters im Modul [`jcg_callgraphs_testadapter`](.BA_Projekt/jcg_callgraphs_testadapter) zur systematischen Evaluation von Call-Graph-Analysen.
 
 > **Hinweis zur Ausführung:** Dieses Repository dient als Code- und Architektur-Referenz meiner Bachelorarbeit. Da die Entwicklungsumgebung auf spezifischen älteren Tool- und Java-Versionen basierte, ist das Projekt hier als reines Code-Archiv dokumentiert.
 
